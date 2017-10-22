@@ -1,0 +1,30 @@
+D:\Amir-final project\C#code\Bwifi\Bwifi\bin\Debug\Bwifi.exe.config
+D:\Amir-final project\C#code\Bwifi\Bwifi\bin\Debug\Bwifi.exe
+D:\Amir-final project\C#code\Bwifi\Bwifi\bin\Debug\Bwifi.pdb
+D:\Amir-final project\C#code\Bwifi\Bwifi\obj\Debug\Bwifi.csprojResolveAssemblyReference.cache
+D:\Amir-final project\C#code\Bwifi\Bwifi\obj\Debug\Bwifi.Form1.resources
+D:\Amir-final project\C#code\Bwifi\Bwifi\obj\Debug\Bwifi.Properties.Resources.resources
+D:\Amir-final project\C#code\Bwifi\Bwifi\obj\Debug\Bwifi.csproj.GenerateResource.Cache
+D:\Amir-final project\C#code\Bwifi\Bwifi\obj\Debug\Bwifi.exe
+D:\Amir-final project\C#code\Bwifi\Bwifi\obj\Debug\Bwifi.pdb
+D:\Amir-final project\C#code\Bwifi\Bwifi\bin\Debug\ZedGraph.dll
+C:\Users\Alireza\Google Drive\Projects\Arduino\Heart rate - wifi socket\C#code\Bwifi\Bwifi\bin\Debug\Bwifi.exe.config
+C:\Users\Alireza\Google Drive\Projects\Arduino\Heart rate - wifi socket\C#code\Bwifi\Bwifi\obj\Debug\Bwifi.exe
+C:\Users\Alireza\Google Drive\Projects\Arduino\Heart rate - wifi socket\C#code\Bwifi\Bwifi\obj\Debug\Bwifi.pdb
+C:\Users\Alireza\Google Drive\Projects\Arduino\Heart rate - wifi socket\C#code\Bwifi\Bwifi\bin\Debug\ZedGraph.dll
+C:\Users\Alireza\Google Drive\Projects\Arduino\Heart rate - wifi socket\C#code\Bwifi\Bwifi\bin\Debug\Bwifi.exe
+C:\Users\Alireza\Google Drive\Projects\Arduino\Heart rate - wifi socket\C#code\Bwifi\Bwifi\bin\Debug\Bwifi.pdb
+C:\Users\Alireza\Google Drive\Projects\Arduino\Heart rate - wifi socket\C#code\Bwifi\Bwifi\obj\Debug\Bwifi.csprojResolveAssemblyReference.cache
+C:\Users\Alireza\Google Drive\Projects\Arduino\Heart rate - wifi socket\C#code\Bwifi\Bwifi\obj\Debug\Bwifi.Form1.resources
+C:\Users\Alireza\Google Drive\Projects\Arduino\Heart rate - wifi socket\C#code\Bwifi\Bwifi\obj\Debug\Bwifi.Properties.Resources.resources
+C:\Users\Alireza\Google Drive\Projects\Arduino\Heart rate - wifi socket\C#code\Bwifi\Bwifi\obj\Debug\Bwifi.csproj.GenerateResource.Cache
+C:\Users\Alireza\Google Drive\N Project\Code\Bwifi\Bwifi\bin\Debug\Bwifi.exe.config
+C:\Users\Alireza\Google Drive\N Project\Code\Bwifi\Bwifi\obj\Debug\Bwifi.exe
+C:\Users\Alireza\Google Drive\N Project\Code\Bwifi\Bwifi\obj\Debug\Bwifi.pdb
+C:\Users\Alireza\Google Drive\N Project\Code\Bwifi\Bwifi\bin\Debug\ZedGraph.dll
+C:\Users\Alireza\Google Drive\N Project\Code\Bwifi\Bwifi\bin\Debug\Bwifi.exe
+C:\Users\Alireza\Google Drive\N Project\Code\Bwifi\Bwifi\bin\Debug\Bwifi.pdb
+C:\Users\Alireza\Google Drive\N Project\Code\Bwifi\Bwifi\obj\Debug\Bwifi.csprojResolveAssemblyReference.cache
+C:\Users\Alireza\Google Drive\N Project\Code\Bwifi\Bwifi\obj\Debug\Bwifi.Form1.resources
+C:\Users\Alireza\Google Drive\N Project\Code\Bwifi\Bwifi\obj\Debug\Bwifi.Properties.Resources.resources
+C:\Users\Alireza\Google Drive\N Project\Code\Bwifi\Bwifi\obj\Debug\Bwifi.csproj.GenerateResource.Cache
